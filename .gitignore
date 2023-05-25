@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter (Kotlin)/task/build/
+/Number Base Converter (Kotlin)/task/out/
+/Number Base Converter (Kotlin)/task/out/production/classes/
+/Topics/BigDecimal/Average/out/
+/Topics/BigDecimal/Average/out/production/classes/
+/Topics/BigDecimal/Gold mining/out/
+/Topics/BigDecimal/Gold mining/out/production/classes/
+/Topics/BigInteger/Percentage/out/
+/Topics/BigInteger/Percentage/out/production/classes/
